@@ -1,0 +1,10 @@
+infor\hccis\willservice\comparator\ComparatorJobcostTotal.class
+info\hccis\util\CisUtility.class
+infor\hccis\willservice\comparator\ComparatorJobDate.class
+info\hccis\wills\services\entity\SeniorCustomer.class
+info\hccis\wills\services\entity\Job.class
+info\hccis\wills\services\base\CustomerBase.class
+info\hccis\wills\services\base\Costable.class
+info\hccis\wills\services\entity\PreferredCustomer.class
+info\hccis\wills\services\Controller.class
+info\hccis\wills\services\entity\RegularCustomer.class
